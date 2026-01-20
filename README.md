@@ -6,7 +6,7 @@ El problema consiste en seleccionar la combinación óptima de productos que max
 
 ---
 
-## 🧠 Problema abordado
+## Problema abordado
 
 Cada producto cuenta con:
 - Valor (beneficio)
@@ -17,9 +17,7 @@ El objetivo es **maximizar el beneficio total** sin exceder:
 - La capacidad máxima de almacenamiento
 - El presupuesto disponible
 
----
-
-## 🛠️ Enfoques implementados
+## Enfoques implementados
 
 Se desarrollaron tres enfoques para resolver el problema:
 
@@ -34,7 +32,5 @@ Se desarrollaron tres enfoques para resolver el problema:
 3. **Enfoque Bottom-Up (Programación Dinámica Iterativa)**
    - Construye una tabla de soluciones desde los casos base.
    - Es el enfoque más estable y eficiente.
-
----
 
 ## 📂 Estructura del proyecto
