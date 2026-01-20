@@ -33,4 +33,36 @@ Se desarrollaron tres enfoques para resolver el problema:
    - Construye una tabla de soluciones desde los casos base.
    - Es el enfoque más estable y eficiente.
 
-## 📂 Estructura del proyecto
+## Estructura del proyecto
+
+src/
+├─ App.java // Clase principal y pruebas
+├─ Product.java // Definición del producto
+└─ Knapsack2D.java // Algoritmos recursivo, top-down y bottom-up
+
+## Ejecución del proyecto
+
+El proyecto fue desarrollado y probado en **NetBeans**.
+
+Para ejecutar:
+1. Abrir el proyecto en NetBeans
+2. Ejecutar la clase `App.java`
+3. Revisar los resultados en la consola
+
+## Resultados
+
+Las pruebas realizadas con diferentes conjuntos de datos muestran que:
+- Los tres enfoques producen el mismo beneficio máximo.
+- El enfoque recursivo es viable solo para casos pequeños.
+- Los enfoques Top-Down y Bottom-Up presentan mejor rendimiento y escalabilidad.
+
+## Bibliografía
+
+- Allen, M. (2013). *Estructura de datos en Java* (4.a ed.). Pearson.
+- Cutajar, J. (2018). *Beginning Java Data Structures and Algorithms*. ProQuest Ebook Central.
+
+## Autor
+
+**Yeferson Parra**  
+Universidad Politécnica Salesiana – Ecuador
+
